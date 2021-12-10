@@ -1,3 +1,3 @@
 
 
-console.log('This is A version of file');
+console.log('This is B version of file');
